@@ -1,22 +1,66 @@
-import React from 'react';
-import inventory from '../Assets//Assets/Southwestern.jpg';
-import pandas from '../Assets//Assets/Pandas.jpg';
-import portfolio from '../Assets//Assets/Portfolio.jpg';  
-import linguacv from '../Assets//Assets/LinguaCV.png';
-import madness from '../Assets//Assets/marchMadness.jpg';
+import proposalImg from '../Assets/Assets/proposal.jpg';
+import safetyImg from '../Assets/Assets/safety.png';
+import infographicImg from '../Assets/Assets/infographic.jpg';
+import majorProjectImg from '../Assets/Assets/finalproject.jpg';
+import usabilityImg from '../Assets/Assets/usability.jpg';
+import presentationImg from '../Assets/Assets/presentation.jpg';
+import safetydocument from '../Assets/Assets/SafetyDocumentFinal.pdf';
+import infographic from '../Assets/Assets/API Infographic.pdf';
 import { motion } from 'framer-motion';
 
 
 
 const Projects = () => {
   // Array of projects
-  const projects = [
-    { id: 1, title: 'LinguaCV', description: 'LinguaCV is a bilingual résumé-building assistant that helps non-English speakers create professional résumés with ease. It guides users through a voice-based conversation in their native language and automatically generates a polished English résumé using Python and natural language processing to bridge language barriers and empower users to showcase their skills confidently.', link: 'https://devpost.com/software/linguacv', image: linguacv},
-    { id:2, title: 'NCAA Bracket Predictor', description: 'Using historical data from NCAA March Madness tournaments and past KenPom Statistics to predict outcomes of 2025 March Madness Torunament. Utilizing machine learning models to predict outcomes of games and simulate the tournament.', link: 'https://github.com/ShashSriv/2025MarchMadnessModel' , image: madness},
-    { id: 3, title: 'Southwestern Inventory System', description: 'Finished fullstack inventory management fullstack application created for Southwestern Veterans center in Pittsburgh, PA. Contains real time firestore database updates, restricted login features, and barcode generation. Created using React, Node.js, Google Firestore ', link: 'https://www.youtube.com/watch?v=9A0uSbtWGS4', image: inventory},
-    { id: 4, title: 'Pandas Database Project', description: 'Using public databases from the City of Pittsburgh to measure the best neighborhood in the city based on a self selected metric. Made a Jupyter notebook  using Python language with pandas and matplotlib utilization to analyze data regarding parks around Pittsburgh', link: 'https://github.com/ShashSriv/Best-Neighborhood-Pittsburgh', image: pandas},
-    { id: 5, title: 'Responsive React.js Portfolio', description: 'First experience with Node.js and React.js. Learned many aspects of bootstrapping and CSS styling to provide aesthetic components to web pages. Planning code to be easily maintained and updated with future experiences', link: 'https://github.com/ShashSriv/Responsive-portfolio?tab=readme-ov-file' , image: portfolio}
-    //Input additional projects here
+    const projects = [
+    { 
+      id: 1, 
+      title: 'Project Proposal', 
+      description: 
+        'A formal project proposal outlining the problem space, intended audience, research questions, and planned deliverables. This document established the foundation for my semester-long project and demonstrated my ability to plan professional communication strategically.', 
+      link: 'https://docs.google.com/document/d/106LQa43E-N-yKU1sbEcfR8GmYzK7_dShB0pjZWavIF8/edit?usp=sharing', 
+      image: proposalImg
+    },
+    { 
+      id: 2, 
+      title: 'Safety Document', 
+      description: 
+        'A comprehensive safety document describing procedures, hazards, recommended practices, and risk mitigation strategies for a workplace environment. This assignment illustrates my ability to consider liability, clarity, and responsibility in technical writing.', 
+      link: safetydocument, 
+      image: safetyImg
+    },
+    { 
+      id: 3, 
+      title: 'Infographic', 
+      description: 
+        'An infographic designed to communicate complex information visually, focusing on clarity, accessibility, and visual hierarchy. This project demonstrates my skills in design, audience awareness, and concise technical communication.', 
+      link: infographic, 
+      image: infographicImg
+    },
+    { 
+      id: 4, 
+      title: 'Catbot AI Project', 
+      description: 
+        'The final chatbot project synthesizing research, analysis, drafting, and revision into a polished professional website. This project demonstrates my ability to communicate effectively in a group workplace genre while incorporating audience considerations and revision cycles.', 
+      link: 'https://github.com/vitalune/CatBot', 
+      image: majorProjectImg
+    },
+    { 
+      id: 5, 
+      title: 'Usability Study', 
+      description: 
+        'A usability test conducted on usage of CatBot, including planning, script creation, user testing, data collection, and analysis. This project showcases my ability to evaluate real-world usability issues and communicate findings professionally.', 
+      link: 'https://docs.google.com/document/d/176qWVZrH0WQRXBLXXEJFkXfcN-RnHxukiaZPuO17jmI/edit?tab=t.0', 
+      image: usabilityImg
+    },
+    { 
+      id: 6, 
+      title: 'Cloud Presentation', 
+      description: 
+        'A professional oral presentation about the power of major cloud hosting companies and communicating key information to a general audience. This artifact highlights public speaking skills, organization, visuals, and clarity of delivery.', 
+      link: 'https://docs.google.com/presentation/d/1ORtik4tpRWmN5V7P-x3T2uiBAlRvMRj-kMiT1DzAw0M/edit?usp=sharing', 
+      image: presentationImg
+    }
   ];
 
   return (
