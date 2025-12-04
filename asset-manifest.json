@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.2417cf21.css",
-    "main.js": "/react/static/js/main.0a778c7d.js",
-    "static/js/592.453b4f2b.chunk.js": "/react/static/js/592.453b4f2b.chunk.js",
-    "static/media/Background1.jpg": "/react/static/media/Background1.fed7c7ac17d776c7c3bc.jpg",
-    "static/media/ProfilePhoto.png": "/react/static/media/ProfilePhoto.404ac64b8cb87f2abb0e.png",
-    "static/media/SafetyDocumentFinal.pdf": "/react/static/media/SafetyDocumentFinal.da88d4b0e5fa311aff68.pdf",
-    "static/media/stars.jpg": "/react/static/media/stars.e050a1a6b2ec8022b482.jpg",
-    "static/media/Background2.jpg": "/react/static/media/Background2.168f9ce0888d46ee7ecb.jpg",
-    "static/media/API Infographic.pdf": "/react/static/media/API Infographic.6d3b2f75bd50f3ec3816.pdf",
-    "static/media/PlanetGif.gif": "/react/static/media/PlanetGif.5fd25dfd62db33ca3591.gif",
-    "static/media/UVSLogoNoBG.png": "/react/static/media/UVSLogoNoBG.fbbf9f36d8f4deb61290.png",
-    "static/media/AnsysLogoNoBG.png": "/react/static/media/AnsysLogoNoBG.6f1bd39f03f758d6cf7b.png",
-    "static/media/infographic.jpg": "/react/static/media/infographic.5b5d2951092a5624a9d3.jpg",
-    "static/media/Icon1.svg": "/react/static/media/Icon1.197212f02efa31cf1fd6ce8f39191593.svg",
-    "index.html": "/react/index.html",
-    "static/media/Icon2.svg": "/react/static/media/Icon2.27a3f479ca1bbb0ceef19e395081fb94.svg",
-    "static/media/Icon3.svg": "/react/static/media/Icon3.8b3ca22bd0c97d9e76893a51204e8a72.svg",
-    "main.2417cf21.css.map": "/react/static/css/main.2417cf21.css.map",
-    "main.0a778c7d.js.map": "/react/static/js/main.0a778c7d.js.map",
-    "592.453b4f2b.chunk.js.map": "/react/static/js/592.453b4f2b.chunk.js.map"
+    "main.css": "/technical-portfolio/static/css/main.2b85e42b.css",
+    "main.js": "/technical-portfolio/static/js/main.4fd2fc51.js",
+    "static/js/592.453b4f2b.chunk.js": "/technical-portfolio/static/js/592.453b4f2b.chunk.js",
+    "static/media/Background1.jpg": "/technical-portfolio/static/media/Background1.fed7c7ac17d776c7c3bc.jpg",
+    "static/media/ProfilePhoto.png": "/technical-portfolio/static/media/ProfilePhoto.404ac64b8cb87f2abb0e.png",
+    "static/media/SafetyDocumentFinal.pdf": "/technical-portfolio/static/media/SafetyDocumentFinal.da88d4b0e5fa311aff68.pdf",
+    "static/media/stars.jpg": "/technical-portfolio/static/media/stars.e050a1a6b2ec8022b482.jpg",
+    "static/media/Background2.jpg": "/technical-portfolio/static/media/Background2.168f9ce0888d46ee7ecb.jpg",
+    "static/media/API Infographic.pdf": "/technical-portfolio/static/media/API Infographic.6d3b2f75bd50f3ec3816.pdf",
+    "static/media/PlanetGif.gif": "/technical-portfolio/static/media/PlanetGif.5fd25dfd62db33ca3591.gif",
+    "static/media/UVSLogoNoBG.png": "/technical-portfolio/static/media/UVSLogoNoBG.fbbf9f36d8f4deb61290.png",
+    "static/media/AnsysLogoNoBG.png": "/technical-portfolio/static/media/AnsysLogoNoBG.6f1bd39f03f758d6cf7b.png",
+    "static/media/infographic.jpg": "/technical-portfolio/static/media/infographic.5b5d2951092a5624a9d3.jpg",
+    "static/media/Icon1.svg": "/technical-portfolio/static/media/Icon1.197212f02efa31cf1fd6ce8f39191593.svg",
+    "index.html": "/technical-portfolio/index.html",
+    "static/media/Icon2.svg": "/technical-portfolio/static/media/Icon2.27a3f479ca1bbb0ceef19e395081fb94.svg",
+    "static/media/Icon3.svg": "/technical-portfolio/static/media/Icon3.8b3ca22bd0c97d9e76893a51204e8a72.svg",
+    "main.2b85e42b.css.map": "/technical-portfolio/static/css/main.2b85e42b.css.map",
+    "main.4fd2fc51.js.map": "/technical-portfolio/static/js/main.4fd2fc51.js.map",
+    "592.453b4f2b.chunk.js.map": "/technical-portfolio/static/js/592.453b4f2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2417cf21.css",
-    "static/js/main.0a778c7d.js"
+    "static/css/main.2b85e42b.css",
+    "static/js/main.4fd2fc51.js"
   ]
 }
